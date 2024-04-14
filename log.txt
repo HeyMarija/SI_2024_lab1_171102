@@ -1,0 +1,40 @@
+Author: Marija Lakovic <129880596+HeyMarija@users.noreply.github.com>
+Date:   Sun Apr 14 20:42:42 2024 +0200
+
+    Update SILab1Main.java
+
+commit 721969bb2de6c7e930870605a1020a8d1a7406df
+Author: Marija Lakovic <129880596+HeyMarija@users.noreply.github.com>
+Date:   Sun Apr 14 20:30:10 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+    Call method filterOddLengthStrings in main class
+
+commit 5bf14dfa44caa6a2dd4307763c42f02fa0994daa
+Author: Marija Lakovic <129880596+HeyMarija@users.noreply.github.com>
+Date:   Sun Apr 14 20:25:55 2024 +0200
+
+    Update SILab1_2.java
+
+    Fix wrong condition
+
+commit 55630cbc349498bb5e869c044018417cb5044e3e (bug1)
+Author: Marija Lakovic <129880596+HeyMarija@users.noreply.github.com>
+Date:   Sun Apr 14 20:02:48 2024 +0200
+
+    Update SILab1_1.java
+
+    filterOddLengthStrings
+
+commit a658d46fe77baadc042fda1f39e2d2f99cdaf1cb
+Author: Marija Lakovic <Marija.Lakovikj@students.finki.ukim.mk>
+Date:   Fri Mar 29 20:35:38 2024 +0100
+
+    Add starter code
+
+commit 7faad424cbb2bed85250ebebda7d577d832c65a2
+Author: Marija Lakovic <Marija.Lakovikj@students.finki.ukim.mk>
+Date:   Fri Mar 29 20:18:25 2024 +0100
+
+    Initial commit
